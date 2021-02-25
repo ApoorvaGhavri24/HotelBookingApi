@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EI11763\\source\\repos\\RoomBookingAPI\\RoomBookingAPI\\RoomBookingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\EI11763\\ProjectGit\\HotelBookingApi's\\RoomBookingAPI\\RoomBookingAPI.csproj",
       "projectName": "RoomBookingAPI",
-      "projectPath": "C:\\Users\\EI11763\\source\\repos\\RoomBookingAPI\\RoomBookingAPI\\RoomBookingAPI.csproj",
+      "projectPath": "C:\\Users\\EI11763\\ProjectGit\\HotelBookingApi's\\RoomBookingAPI\\RoomBookingAPI.csproj",
       "packagesPath": "C:\\Users\\EI11763\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EI11763\\source\\repos\\RoomBookingAPI\\RoomBookingAPI\\obj\\",
+      "outputPath": "C:\\Users\\EI11763\\ProjectGit\\HotelBookingApi's\\RoomBookingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

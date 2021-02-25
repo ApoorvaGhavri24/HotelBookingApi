@@ -12,3 +12,17 @@ C:\Users\EI11763\source\repos\RoomBookingAPI\RoomBookingAPI\bin\Debug\netcoreapp
 C:\Users\EI11763\source\repos\RoomBookingAPI\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.dll
 C:\Users\EI11763\source\repos\RoomBookingAPI\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.pdb
 C:\Users\EI11763\source\repos\RoomBookingAPI\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.csprojAssemblyReference.cache
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\bin\Debug\netcoreapp2.1\RoomBookingAPI.deps.json
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\bin\Debug\netcoreapp2.1\RoomBookingAPI.runtimeconfig.json
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\bin\Debug\netcoreapp2.1\RoomBookingAPI.runtimeconfig.dev.json
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\bin\Debug\netcoreapp2.1\RoomBookingAPI.dll
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\bin\Debug\netcoreapp2.1\RoomBookingAPI.pdb
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.csprojAssemblyReference.cache
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.csproj.CoreCompileInputs.cache
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.RazorAssemblyInfo.cache
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.RazorAssemblyInfo.cs
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.AssemblyInfoInputs.cache
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.AssemblyInfo.cs
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.dll
+C:\Users\EI11763\ProjectGit\HotelBookingApi's\RoomBookingAPI\obj\Debug\netcoreapp2.1\RoomBookingAPI.pdb
